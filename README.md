@@ -19,7 +19,7 @@ This repository contains a collection of my **Data Science projects**. Each proj
 
 ## 📧 Contact
 Feel free to reach out for any queries or collaborations:  
-- **Email:** your_email@example.com  
+- **Email:** adikishor67@gmail.com  
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aditya-kishor-sharma/) 
 
 ---
